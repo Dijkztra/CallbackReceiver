@@ -15,3 +15,6 @@
 /log/*
 !/log/.keep
 /tmp
+
+# Ignore byebug (debugging gem) histories
+.byebug_history
